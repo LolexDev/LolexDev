@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LolexDev
+- 👀 I’m interested in Coding,Networking,Database managment
+- 🌱 I’m currently learning Lua,Python
+- 📫 How to reach me lolexalt on discord
